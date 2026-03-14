@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Data files
+*.db
+*.index
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
